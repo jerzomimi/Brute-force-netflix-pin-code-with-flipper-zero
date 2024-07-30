@@ -2,7 +2,7 @@
 
 First of all, for brute force to work, you need the unleashed os on your flipper zero instead of the stock one.
 
-Afterwards you have to download the file "Script ducky script for brute force the pin code netflix" and transfer it to the "Tools/Bad KB/" directory of the flipper zero.
+Afterwards you have to download the file "Duckyscript for brute force the pin code netflix" and transfer it to the "Tools/Bad KB/" directory of the flipper zero.
 
 Then connect your flipper zero to the phone by cable, open the netflix pin code window and finally launch the script in bad usb with the flipper zero.
 

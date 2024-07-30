@@ -1,6 +1,6 @@
 # Brute-force-4-digit-netflix-pin-code-on-phone-with-flipper-zero-and-phone-safe
 
-First of all, for brute force to work, you need the unleashed os on your flipper zero instead of the stock one.
+First of all, for brute force to work, you need the unleashed os or Xtreme firmware os on your flipper zero instead of the stock one.
 
 Afterwards you have to download the file "Duckyscript for brute force the pin code netflix" and transfer it to the "Tools/Bad KB/" directory of the flipper zero.
 

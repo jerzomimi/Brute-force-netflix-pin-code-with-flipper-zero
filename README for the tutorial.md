@@ -10,6 +10,6 @@ Then connect your flipper zero to the phone by cable, open the netflix pin code 
 For information : The technique has been tested and worked successfully, the servers will not ban you because of all your attempts.
 
 
-You can see how I generated the duckyscript using the python file called "Brute force generator for netflix pin code on python" that I made available.
+You can see how I generated the duckyscript using the python file called "Brute force generator for netflix pin code(python)" that I made available.
 
 It was nothing !
